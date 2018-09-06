@@ -141,6 +141,10 @@
       "enabled": true
     },
     {
+      "name": "FactorioMaps",
+      "enabled": true
+    },
+    {
       "name": "FARL",
       "enabled": true
     },
