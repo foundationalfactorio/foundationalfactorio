@@ -137,6 +137,14 @@
       "enabled": true
     },
     {
+      "name": "combinatorgraph",
+      "enabled": true
+    },
+    {
+      "name": "DeleteEmptyChunks",
+      "enabled": false
+    },
+    {
       "name": "even-distribution",
       "enabled": true
     },
@@ -150,6 +158,10 @@
     },
     {
       "name": "fast-filter-fill",
+      "enabled": true
+    },
+    {
+      "name": "FNEI",
       "enabled": true
     },
     {
@@ -169,6 +181,10 @@
       "enabled": true
     },
     {
+      "name": "nixie-tubes",
+      "enabled": true
+    },
+    {
       "name": "ore-eraser",
       "enabled": true
     },
@@ -181,7 +197,15 @@
       "enabled": true
     },
     {
+      "name": "ProductionStatisticsCircuitry",
+      "enabled": true
+    },
+    {
       "name": "upgrade-planner",
+      "enabled": true
+    },
+    {
+      "name": "visual-signals",
       "enabled": true
     },
     {
