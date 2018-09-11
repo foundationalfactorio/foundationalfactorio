@@ -57,8 +57,12 @@
       "enabled": true
     },
     {
-      "name": "AutoDeconstruct",
+      "name": "auto-research",
       "enabled": true
+    },
+    {
+      "name": "AutoDeconstruct",
+      "enabled": false
     },
     {
       "name": "bobassembly",
@@ -146,7 +150,7 @@
     },
     {
       "name": "even-distribution",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "FactorioMaps",
@@ -162,7 +166,11 @@
     },
     {
       "name": "FNEI",
-      "enabled": true
+      "enabled": false
+    },
+    {
+      "name": "LoaderRedux",
+      "enabled": false
     },
     {
       "name": "LogisticTrainNetwork",
@@ -190,7 +198,7 @@
     },
     {
       "name": "ore-eraser",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "PickerExtended",
@@ -202,11 +210,11 @@
     },
     {
       "name": "ProductionStatisticsCircuitry",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Squeak Through",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "upgrade-planner",
