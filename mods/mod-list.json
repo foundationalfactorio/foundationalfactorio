@@ -173,6 +173,10 @@
       "enabled": true
     },
     {
+      "name": "miniloader",
+      "enabled": true
+    },
+    {
       "name": "ModuleInserter",
       "enabled": true
     },
@@ -198,6 +202,10 @@
     },
     {
       "name": "ProductionStatisticsCircuitry",
+      "enabled": true
+    },
+    {
+      "name": "Squeak Through",
       "enabled": true
     },
     {
