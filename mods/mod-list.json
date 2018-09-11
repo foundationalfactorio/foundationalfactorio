@@ -138,7 +138,7 @@
     },
     {
       "name": "Bottleneck",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "combinatorgraph",
@@ -154,22 +154,18 @@
     },
     {
       "name": "FactorioMaps",
-      "enabled": true
-    },
-    {
-      "name": "FARL",
-      "enabled": true
-    },
-    {
-      "name": "fast-filter-fill",
-      "enabled": true
-    },
-    {
-      "name": "FNEI",
       "enabled": false
     },
     {
-      "name": "LoaderRedux",
+      "name": "FARL",
+      "enabled": false
+    },
+    {
+      "name": "fast-filter-fill",
+      "enabled": false
+    },
+    {
+      "name": "FNEI",
       "enabled": false
     },
     {
@@ -194,7 +190,7 @@
     },
     {
       "name": "nixie-tubes",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "ore-eraser",
@@ -213,16 +209,12 @@
       "enabled": false
     },
     {
-      "name": "Squeak Through",
-      "enabled": false
-    },
-    {
       "name": "upgrade-planner",
       "enabled": true
     },
     {
       "name": "visual-signals",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "what-is-it-really-used-for",
